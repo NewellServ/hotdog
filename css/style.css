@@ -6,6 +6,11 @@
 
 
 }
+ol {
+    text-align: left;
+    max-width: 60% ;
+}
+
 
 body {
   background-color: #5A88D3 ;

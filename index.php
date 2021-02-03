@@ -42,7 +42,7 @@
           <h3>Hotdog eating gallery</h3>
 
           <!-- image gallery of karen eating hotdogs. -->
-          <!-- <a href="images/karen_corn.png" title="click here to see the full sized image"><img src="images/karen_corn.png" alt="Karen eating a hotdog."></a> -->
+
 
           <?php
             $files = glob("hotdog_selfie/*.*");
@@ -51,7 +51,7 @@
 
                 //echo '<img src="' . $image . '" alt="Random image" />' . "<br /><br />";
                 ?>
-                <a href="<?php echo $image ; ?>" title="click here to see the full sized image"><img src="<?php echo $image ;?>" alt="Karen eating a hotdog."></a>
+                    <a href="<?php echo $image ; ?>" title="click here to see the full sized image"><img src="<?php echo $image ;?>" alt="Karen eating a hotdog."></a>
                 <?php
 
             }

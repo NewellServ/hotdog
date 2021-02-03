@@ -32,9 +32,9 @@
             <br />
 
 
-
+            <font color="green" size="16px">$3.00</font>
         </article><br />
-        <font color="green" size="16px">$3.00</font>
+
       </section>
 
       <section class="blog">

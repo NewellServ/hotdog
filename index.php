@@ -43,17 +43,23 @@
 
           <!-- image gallery of karen eating hotdogs. -->
 
-
           <?php
             $files = glob("hotdog_selfie/*.*");
-            for ($i = 0; $i < count($files); $i++) {
-                $image = $files[$i];
-
-                //echo '<img src="' . $image . '" alt="Random image" />' . "<br /><br />";
+            if (count($files) < 1){
                 ?>
-                    <a href="<?php echo $image ; ?>" title="click here to see the full sized image"><img src="<?php echo $image ;?>" alt="Karen eating a hotdog."></a>
+                <br /><br />
+                <b>Either no one has bought karen a hotdog yet or she hasn't eaten one yet.</b><br /><br />
                 <?php
+            }else{
+                for ($i = 0; $i < count($files); $i++) {
+                    $image = $files[$i];
 
+                    //echo '<img src="' . $image . '" alt="Random image" />' . "<br /><br />";
+                    ?>
+                        <a href="<?php echo $image ; ?>" title="click here to see the full sized image"><img src="<?php echo $image ;?>" alt="Karen eating a hotdog."></a>
+                    <?php
+
+                }
             }
            ?>
 

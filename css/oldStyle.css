@@ -1,0 +1,138 @@
+* {
+  margin: 0 auto ;
+  padding: 0 ;
+  box-sizing: border-box;
+  font-family: calibri ;
+
+
+}
+
+body {
+  background-color: #5A88D3 ;
+  min-height: 100% ;
+}
+
+button {
+  text-decoration: inherit;
+  font-family: inherit;
+  border-style: double;
+  background-color: #B1D0F3 ;
+  padding: 5px 5px ;
+  border-radius: 5px;
+}
+
+
+a {
+  text-decoration: none ;
+}
+
+
+p {
+  margin: 20px auto ;
+
+}
+
+.blog p {
+  max-width: 80%;
+}
+
+h1{
+  margin: 0 auto ;
+  padding-top: 20px ;
+
+}
+
+h2, h3 {
+  color: #3B5997 ;
+}
+
+.wrapper {
+  max-width: 1000px ;
+  text-align: center;
+  margin: auto ;
+  padding: 20px ;
+  background-color: #FFFFFF ;
+  min-height: 100% ;
+
+
+
+}
+
+.main {
+  height: auto;
+  min-height: 100% ;
+
+}
+
+footer {
+  background-color: black ;
+  text-align: right;
+  color: white ;
+  position: fixed;
+  left: 0 ;
+  bottom: 0 ;
+  width: 100% ;
+}
+
+header .headWrapper {
+  background-color: black ;
+  color: white ;
+}
+
+.navWrapper {
+  max-width: 1000px ;
+  padding: 10px 10px ;
+}
+
+header .headWrapper a {
+  color: white ;
+}
+
+header .headWrapper a:hover {
+  color: #B1D0F3 ;
+}
+
+
+
+nav {
+  float: right ;
+
+
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0 20px ;
+}
+
+nav ul li a {
+  display: block ;
+}
+
+section {
+  min-width: 100% ;
+}
+
+article {
+  display: inline-block;
+  margin: 20px auto ;
+  background-color: #FFF ;
+  padding: 10px 5px 5px 5px ;
+  border-style: solid;
+  border-color: black ;
+  max-width: 30% ;
+  height: 200px ;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.blog article {
+  min-width: 98% ;
+  height: auto;
+  border-style: none ;
+}
+
+.projects article {
+  border-style: none;
+}

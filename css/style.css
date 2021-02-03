@@ -1,0 +1,231 @@
+* {
+  margin: 0 auto ;
+  padding: 0 ;
+  box-sizing: border-box;
+  font-family: calibri ;
+
+
+}
+
+body {
+  background-color: #5A88D3 ;
+  background-image: url('/images/background.jpg');
+  font-size: 18px ;
+}
+
+button {
+  text-decoration: inherit;
+  font-family: inherit;
+  border-style: double;
+  background-color: #B1D0F3 ;
+  padding: 5px 5px ;
+  border-radius: 5px;
+}
+
+button:hover {
+    background-color: yellow ;
+}
+
+
+a {
+  text-decoration: none ;
+}
+
+a:visited {
+    color: #0000EE;
+}
+
+
+p {
+  margin: 15px auto ;
+
+}
+
+.linkDesc p {
+    text-align: justify;
+
+}
+
+.blog p {
+  max-width: 80%;
+}
+
+
+
+h1{
+  margin: 0 auto ;
+  padding-top: 20px ;
+
+}
+
+h2, h3 {
+  color: #3B5997 ;
+}
+
+h3 {
+    margin-top: 20px ;
+}
+
+.money {
+  color: green ;
+  margin-top: 5px ;
+  font-size: 16px ;
+}
+
+.wrapper {
+  max-width: 1000px ;
+  text-align: center;
+  margin: auto ;
+  padding: 20px ;
+  background-color: #FFFFFF ;
+  min-height: 100% ;
+
+
+
+}
+
+.main {
+
+  min-height: 100% ;
+
+}
+
+footer {
+  background-color: black ;
+  text-align: right;
+  color: white ;
+  position: fixed;
+  left: 0 ;
+  bottom: 0 ;
+  width: 100% ;
+}
+
+header .headWrapper {
+  background-color: black ;
+  color: white ;
+}
+
+.navWrapper {
+  max-width: 1000px ;
+  padding: 10px 10px ;
+}
+
+header .headWrapper a {
+  color: white ;
+}
+
+header .headWrapper a:hover {
+  color: #B1D0F3 ;
+}
+
+
+
+nav {
+  float: right ;
+
+
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0 8px ;
+}
+
+nav ul li a {
+  display: block ;
+}
+
+section {
+  min-width: 100% ;
+}
+
+article {
+
+  margin: 20px auto;
+  background-color: #FFF ;
+  padding: 5px 5px 5px 5px ;
+  border-style: solid;
+  border-color: black ;
+  max-width: 100% ;
+  border-radius: 5px;
+  min-height: 100% ;
+
+
+}
+
+.blog article {
+  min-width: 98% ;
+  border-style: none ;
+}
+
+.projects article {
+  border-style: none;
+}
+
+.plans article {
+    border-style:none ;
+}
+
+img {
+    max-width: 30%;
+    border-radius: 5px ;
+    max-height: 400px ;
+    border-style: solid;
+    margin: 10px 10px ;
+    border-color: black ;
+}
+
+.img {
+    max-width: 100%;
+}
+
+.links {
+    float: left ;
+}
+
+ .links ul {
+  list-style-type: none;
+  display: inline-block;
+
+}
+
+.links ul li {
+    display: inline-block ;
+    padding: 0 20px ;
+}
+
+@media only screen and (min-width: 768px) {
+  article {
+    display: inline-block;
+    max-width: 30% ;
+    overflow: hidden;
+
+
+  }
+
+
+ .pricing article {
+     min-height: 285px ;
+ }
+
+.custom {
+     min-height: 0px ;
+     height: auto;
+
+ }
+
+  body {
+      font-size: 16px ;
+  }
+
+  nav ul li {
+  padding: 0 20px ;
+}
+
+
+}
+
+@media only screen and (min-width: 1000px) {
+
+}

@@ -4,7 +4,7 @@
 <header>
     <div class="headWrapper">
       <div class="navWrapper">
-        <a href="/index.php">hotdogs for Karen</a> <!-- needs the slash in the beginning to work from various directories -->
+        <a href="/index.php">Hotdogs for Karen</a> <!-- needs the slash in the beginning to work from various directories -->
         <nav>
           <ul>
             <li><a href="/index.php">home</a></li>

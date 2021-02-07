@@ -7,6 +7,7 @@
         <a href="/index.php">Hotdogs for Karen</a> <!-- needs the slash in the beginning to work from various directories -->
         <nav>
           <ul>
+              <li><a href="/faq.php">faq</a></li>
             <li><a href="/index.php">home</a></li>
           </ul>
         </nav>

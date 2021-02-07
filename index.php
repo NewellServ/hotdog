@@ -5,7 +5,7 @@
     <title>Karen loves hot dogs.</title>
     <link rel="stylesheet" href="/css/style.css">
     <meta name="description" content="My wife, Karen, loves hot dogs tremendously.  On this page you can purchase a hot dog for her and I will take a picture of her eating it and post it to the main page hot dog eating gallery.">
-    <meta name="keywords" content="Karen, Newell, Karen Newell, Hot dog, I love hotdogs, hotdog, buy karen a hot dog, buy karen a hotdog">
+    <meta name="keywords" content="Karen, Hot dog, I love hotdogs, hotdog, buy karen a hot dog, buy karen a hotdog">
 
   <?php require_once('header.php'); ?>
 <body>
@@ -21,6 +21,7 @@
       <section class="Main">
         <article>
             Buy Karen a hotdog and an image of her eating it will be posted here.<br /><br />
+            
 
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
@@ -29,15 +30,43 @@
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
 
+
             <br />
 
 
-            <font color="green" size="16px">$3.00</font>
+            <font color="green" size="16px">$4.50</font>
+            
+            <br /><br /><em><small>We are currently experiencing high latency.  All purchases <b>will be honored</b>, and reserves your spot in line.</b></small></em>
         </article><br />
 
       </section>
+      
+        
+    <section class="Main">
+        <article>
+            Buy a raffle ticket for the feb 12th Hotdog Friday raffle!
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="2SSP3DQZWQZME">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+            
+            <font color="green" size="16px">.99</font>
+            
+            <br /><br /><em><small>Raffles will be held every friday night and the hotdog eating video in the gallery will be replaced with your hotdog with attribution if you like.</b></small></em>
+        </article>
+    </section>
 
       <section class="blog">
+        <article>
+            <video width="320" height="240" controls>
+                <source src="/hotdog_video/Video.mp4" type="video/mp4">
+            
+                Your browser does not support the video tag.
+            </video>
+        </article>
+        </article>
         <article>
           <h3>Hotdog eating gallery</h3>
 

@@ -39,7 +39,7 @@
             <font color="green" size="16px">$4.50</font>
 
             <br /><br /><em><small>We are currently experiencing high latency.  All purchases <b>will be honored</b>, and reserves your spot in line.</b></small></em>
-        </article><br />
+        </article>
 
       </section>
 

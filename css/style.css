@@ -6,6 +6,11 @@
 
 
 }
+html{
+    height: 100% ;
+    min-height: 100%;
+}
+
 ol {
     text-align: left;
     max-width: 60% ;
@@ -84,6 +89,8 @@ h3 {
   padding: 20px ;
   background-color: #FFFFFF ;
 
+  min-height: 100% ;
+
 }
 
 
@@ -110,6 +117,7 @@ header .headWrapper {
 .navWrapper {
   max-width: 1000px ;
   padding: 10px 10px ;
+  height: 40px ;
 }
 
 header .headWrapper a {
@@ -126,12 +134,14 @@ nav {
   float: right ;
 
 
+
 }
 
 nav ul li {
   list-style-type: none;
   display: inline-block;
   padding: 0 8px ;
+
 }
 
 nav ul li a {
@@ -198,6 +208,10 @@ img {
     padding: 0 20px ;
 }
 
+#hotdogsKaren {
+    display: none;
+}
+
 @media only screen and (min-width: 768px) {
   article {
     display: inline-block;
@@ -230,6 +244,12 @@ img {
     max-width: 100%;
 }
 
+
+    #hotdogsKaren {
+        display: inline-block;
+    }
+
+    
 }
 
 @media only screen and (min-width: 1000px) {
@@ -245,16 +265,19 @@ img {
 
     section {
 
-    }
-
-    .Main {
-        float: left ;
+        display: inline-block;
+        vertical-align: top;
         max-width: 50% ;
-        margin-left: 35px ;
+    }
+
+    .buttons {
+
+        width: 100% ;
+
 
     }
 
-    
+
 
 
 }

@@ -25,5 +25,6 @@
           </article>
       </section>
     </div>
+    <br /><br />
   </body>
 <?php require_once('footer.php'); ?>

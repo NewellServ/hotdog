@@ -249,7 +249,7 @@ img {
         display: inline-block;
     }
 
-    
+
 }
 
 @media only screen and (min-width: 1000px) {
@@ -257,10 +257,7 @@ img {
 
     article {
         margin: 0 auto ;
-        padding-top: 0 ;
-        padding-right: 0;
-        padding-left: 0 ;
-        padding-bottom: 0 ;
+        
     }
 
     section {
@@ -275,6 +272,9 @@ img {
         width: 100% ;
 
 
+    }
+    .register {
+        padding: 20 auto ;
     }
 
 

@@ -21,11 +21,11 @@
       <section>
           <article class="register">
 
-              <form class="" action="index.html" method="post"><br />
-                  <input type="text" name="email" placeholder="Email..."><br />
-                  <input type="password" name="password" placeholder="Password..."><br />
-                  <input type="password" name="password2" placeholder="Retype Password..."><br />
-                  <input type="submit" name="register" value="Register"><br />
+              <form class="" action="includes/register.inc.php" method="post">
+                  <input type="text" name="email" placeholder="Email..."><br /><br />
+                  <input type="password" name="password" placeholder="Password..."><br /><br />
+                  <input type="password" name="password2" placeholder="Retype Password..."><br /><br />
+                  <input type="submit" name="register" value="Register">
               </form>
           </article>
       </section>

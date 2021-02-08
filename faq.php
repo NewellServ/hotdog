@@ -39,7 +39,7 @@
       <p>It's <em>your</em> hotdog.</p>
 
        <h3>What exactly is a hotdog?</h3>
-       <p>According to google: "a frankfurter, especially one served hot in a long, soft roll and topped with various condiments."  Or it can apparrently be "a person who shows off, especially a skier or surfer who performs stunts or tricks."  Though getting her to eat your surfer may cost more.</p>
+       <p>According to google: "a frankfurter, especially one served hot in a long, soft roll and topped with various condiments."  Or it can apparently be "a person who shows off, especially a skier or surfer who performs stunts or tricks."  Though getting her to eat your surfer may cost more.</p>
 
         <h3>Whats the current rate of hotdog consumption?</h3>
         <p>Right now, we are at about 1-3 hotdogs a day.  We are looking into ways to improve this.</p>
@@ -47,7 +47,7 @@
         <h3>Can I get a stool sample?</h3>
         <p>Not at this time.</p>
 
-        <h3>Can I make a request or geta personal touch?</h3>
+        <h3>Can I make a request or get a personal touch?</h3>
         <p>You may request one, but I cannot ensure Karen will comply with your request.  But feel free!</p>
 
         <h3>Whats the max number of simultaneious dogs in mouth?</h3>

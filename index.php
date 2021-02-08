@@ -17,11 +17,13 @@
         "You can help aggravate an irrational addiction to hotdogs."
       </aside>
       <br />
-      <img src="images/karen.png" alt="A nice picture of Karen so you can see her before she gets fat." title="A nice picture of Karen so you can see her before she gets fat.">
+      <section class="Main">
+            <img src="images/karen.png" alt="A nice picture of Karen so you can see her before she gets fat." title="A nice picture of Karen so you can see her before she gets fat.">
+      </section>
       <section class="Main">
         <article>
             Buy Karen a hotdog and an image of her eating it will be posted here.<br /><br />
-            
+
 
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
@@ -35,13 +37,13 @@
 
 
             <font color="green" size="16px">$4.50</font>
-            
+
             <br /><br /><em><small>We are currently experiencing high latency.  All purchases <b>will be honored</b>, and reserves your spot in line.</b></small></em>
         </article><br />
 
       </section>
-      
-        
+
+
     <section class="Main">
         <article>
             Buy a raffle ticket for the feb 12th Hotdog Friday raffle!
@@ -51,9 +53,9 @@
                 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
-            
+
             <font color="green" size="16px">.99</font>
-            
+
             <br /><br /><em><small>Raffles will be held every friday night and the hotdog eating video in the gallery will be replaced with your hotdog with attribution if you like.</b></small></em>
         </article>
     </section>
@@ -62,7 +64,7 @@
         <article>
             <video width="320" height="240" controls>
                 <source src="/hotdog_video/Video.mp4" type="video/mp4">
-            
+
                 Your browser does not support the video tag.
             </video>
         </article>

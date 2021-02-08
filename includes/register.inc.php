@@ -38,3 +38,7 @@ if (!(filter_var($email, FILTER_VALIDATE_EMAIL))) {
     header('location: ../register.php?error=Your email address was invalid.');
     die("$email is an invalid email address");
 }
+
+//make a database connection
+
+require_once('database.inc.php');

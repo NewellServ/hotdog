@@ -18,7 +18,14 @@
       </aside>
       <br />
 
+      <ol>
+          <lh><b>Version 1.02</b></lh>
+          <li>Modified stylesheet for views with width over 1000 pixels.</li>
+          <li>Removed gallery from front page.</li>
+          <li>Modified gallery css to more pleasently show pictures.</li>
 
+      </ol>
+      <br /><br />
 
       <ol>
           <lh><b>Version 1.01</b></lh>

@@ -8,7 +8,8 @@
         <nav>
           <ul>
               <li><a href="/faq.php">faq</a></li>
-            <li><a href="/index.php">home</a></li>
+              <li><a href="/register.php">register</a></li>
+            <li><a href="/login.php">login</a></li>
           </ul>
         </nav>
       </div>

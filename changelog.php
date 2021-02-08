@@ -11,24 +11,28 @@
 <body>
     <div class="wrapper">
 
-      <h1>Buy Karen a hotdog</h1>
-      <br />
-      <aside class="">
-        "You can help aggravate an irrational addiction to hotdogs."
-      </aside>
-      <br />
+      <h1>Patch notes</h1>
 
+
+      <br /><br />
       <ol>
-          <lh><b>Version 1.02</b></lh>
+          <lh><b>1.12</b> - 2/8/2021</lh><hr>
+          <li>Began laying foundation for log in system.</li>
+      </ol>
+
+      <br /><br />
+      <ol>
+          <lh><b>Version 1.02</b></lh><hr>
           <li>Modified stylesheet for views with width over 1000 pixels.</li>
           <li>Removed gallery from front page.</li>
           <li>Modified gallery css to more pleasently show pictures.</li>
 
       </ol>
+
       <br /><br />
 
       <ol>
-          <lh><b>Version 1.01</b></lh>
+          <lh><b>Version 1.01</b></lh><hr>
           <li>Changed to paypal for buyer protection.</li>
           <li>Added changelog</li>
       </ol>

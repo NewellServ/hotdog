@@ -14,7 +14,14 @@
       <h1>Register Account</h1>
       <br />
       <aside class="">
-        "Registering an account is free and sets you up for attribution and notification."
+          <?php
+          if (isset($_GET['error'])){
+              echo "<span><font color=\"red\"><b>" . $_GET['error'] . "</b></font></span>" ;
+          }else{
+                echo "Registering an account is free and sets you up for attribution and notification." ;
+          }
+           ?>
+
       </aside>
       <br />
 

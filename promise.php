@@ -19,7 +19,7 @@
       <section>
           <article class="">
               <h3>We agree on the following...</h3>
-              <p>Look, I don't want to screw you and I know you don't want to screw me.  You buy the hotdog, I'll feed it to her and give you a picture of it.  Thats it.</p>
+              <p>Look, I don't want to screw you and I know you don't want to screw me.  We mutually agree to try and not fuck each other over.  You buy the hotdog, I'll feed it to her and give you a picture of it.  Thats it.</p>
               <p>Hotdog-purchase to hotdog-consumption may be an extended wait, your spot is saved in line.</p>
               <p>Things that are tasteful, funny, or complimentory will be passed on!  Things that are not will be moderated.</p>
               <p>Enjoy!</p>

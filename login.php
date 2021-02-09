@@ -41,6 +41,7 @@
                   <input type="submit" name="submit" value="Login"><br /><br />
               </form>
               <p>No account?  <a href="register.php">Register here.</a></p>
+              <p><a href="forgot.php">Forgot password?</a></p>
           </article>
       </section>
     </div>

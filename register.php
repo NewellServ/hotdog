@@ -53,6 +53,8 @@
               </aside> </small>
           </article>
       </section>
+      <br />
+      <a href="login.php">Already have an account?</a>
       <br /><br />
       <h2>Register for the site if you want to:</h2><br />
       <ol>

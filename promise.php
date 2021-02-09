@@ -24,7 +24,7 @@
               <p>Things that are tasteful, funny, or complimentory will be passed on!  Things that are not will be moderated.</p>
               <p>Enjoy!</p>
 
-              
+                <a href="register.php">register</a> - <a href="login.php">login</a>
 
           </article>
       </section>

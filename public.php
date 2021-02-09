@@ -21,7 +21,7 @@
       <section>
           <article class="">
               <h3>Gallery</h3>
-              <p>Images!</p>
+              <p>The public gallery hasn't had a posted photo yet, you can view the <a href="founders.php">founders gallery</a> if you like.</p>
           </article>
       </section>
     </div>

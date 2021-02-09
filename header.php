@@ -6,6 +6,13 @@
       <div class="navWrapper">
         <a  id="hotdogsKaren" href="/index.php">Hotdogs for Karen</a> <!-- needs the slash in the beginning to work from various directories -->
         <nav>
+          <?php
+            //We need to show a different menu for users who are logged in.  We are going to use a function called userState() that returns an id if the user is logged in and false if the user is a guest.
+
+            require_once('functions/userState.func.php');
+            
+
+           ?>
           <ul>
               <li><a href="/index.php">home</a></li>
               <li><a href="/faq.php">faq</a></li>

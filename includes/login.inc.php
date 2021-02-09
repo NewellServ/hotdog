@@ -34,7 +34,7 @@ while($row = $result->fetch_assoc()) {
 
 if (password_verify($password, $passHash)){
     //the password is correct
-    $_SESSION['userid'] = $id ;
+    $_SESSION['userId'] = $id ;
     header('location: ../index.php?success=You are now logged in');
     exit();
 

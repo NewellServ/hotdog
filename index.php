@@ -22,7 +22,7 @@
             <img src="hotdog_selfie/image0.jpeg" alt="A nice picture of Karen so you can see her before she gets fat." title="A nice picture of Karen so you can see her before she gets fat.">
         </a><br />
         <aside class="">
-            <small>Click my photo to watch me eat the last raffle weiners hotdog!</small>
+            <small>Click my photo to watch me eat the last raffle wieners hotdog!</small>
         </aside>
       </section>
       <section class="Main">
@@ -53,7 +53,7 @@
 
         <section class="buttons">
             <article>
-                Buy a weiner ticket for the Hotdog Friday raffle!<br />
+                Buy a wiener ticket for the Hotdog Friday raffle!<br />
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="2SSP3DQZWQZME">
@@ -63,7 +63,7 @@
 
                 <font color="green" size="16px">&cent;.99</font>
 
-                <br /><br /><em><small>Hotdog Friday is when we video Karen eating the raffle weiners hotdog and put it on the home page.</b></small></em>
+                <br /><br /><em><small>Hotdog Friday is when we video Karen eating the raffle wieners hotdog and put it on the home page.</b></small></em>
             </article>
         </section>
     </section>

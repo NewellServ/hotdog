@@ -21,7 +21,15 @@
       <section>
           <article class="">
               <h3>Forgot Password</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Wouldn't want to miss out on getting your hotdog gobbled.  Enter your email in the form below and we'll kick one out to your spam folder to reset your password.</p>
+
+              <form action="includes/forgot.inc.php" method="post">
+                  <input type="text" name="Email" placeholder="Whats your email?" />
+                  <input type="submit" name="submit" value="Submit" />
+              </form>
+              <br /><br />
+              <a href="register.php">register</a> - <a href="login.php">login</a>
+              <br /><br />
           </article>
       </section>
     </div>

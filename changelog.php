@@ -39,7 +39,7 @@
           <li>Users can now login to the website with their website credentials</li>
           <li>Nav menu now updates based on the users logged in status.</li>
           <li>Only registered and logged in users may view the galleries now.</li>
-          <li>Users can view founders gallery.</li>
+          <li>Logged in users can view founders gallery.</li>
       </ol>
 
       <br /><br />

@@ -28,7 +28,9 @@
           <lh><b>1.101</b> - 2/8/2021</lh><hr>
           <li>Users can now register an account with the website.</li>
           <li>Users can now login to the website with their website credentials</li>
-          <li>TODO: Nav menu now updates based on the users logged in status.</li>
+          <li>Nav menu now updates based on the users logged in status.</li>
+          <li>TODO: Logged in users can view public gallery.</li>
+          <li>TODO: Loggin in users can view private gallery.</li>
           <li>TODO: Users can now update their email address when logged in.</li>
           <li>TODO: Users can now receive email.</li>
           <li>TODO: Forgot password link has been added.</li>

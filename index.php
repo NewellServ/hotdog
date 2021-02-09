@@ -22,7 +22,7 @@
             <img src="hotdog_selfie/image0.jpeg" alt="A nice picture of Karen so you can see her before she gets fat." title="A nice picture of Karen so you can see her before she gets fat.">
         </a><br />
         <aside class="">
-            <small>Click my photo to watch me eat the last raffle winners hotdog!</small>
+            <small>Click my photo to watch me eat the last raffle weiners hotdog!</small>
         </aside>
       </section>
       <section class="Main">

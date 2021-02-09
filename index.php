@@ -11,7 +11,7 @@
 <body>
     <div class="wrapper">
 
-      <h1>Buy Karen a hotdog<font style="font-size: 8px;">2.0</font></h1>
+      <h1>Buy Karen a hotdog<font style="font-size: 8px;">1.1</font></h1>
       <br />
       <aside class="">
         "Testing the limits of hotdog consumption."

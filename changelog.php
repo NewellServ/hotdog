@@ -22,6 +22,15 @@
           <li>Users can now buy Karen a beer if they desire.</li>
           <li>Users who subscribe to at least 1 recurring raffle ticket a week get access to Karen's Weiner Feed.</li>
       </ol>
+      <br /><br />
+      <ol>
+          <lh><b>1.102</b> - To be announced</lh><hr>
+          <li>TODO: Loggin in users can view private gallery.</li>
+          <li>TODO: Users can now update their email address when logged in.</li>
+          <li>TODO: Users can now receive email.</li>
+          <li>TODO: Forgot password link has been added.</li>
+          <li>TODO: Users can now change their password.</li>
+      </ol>
 
       <br /><br />
       <ol>
@@ -30,11 +39,8 @@
           <li>Users can now login to the website with their website credentials</li>
           <li>Nav menu now updates based on the users logged in status.</li>
           <li>Users can view founders gallery.</li>
-          <li>TODO: Loggin in users can view private gallery.</li>
-          <li>TODO: Users can now update their email address when logged in.</li>
-          <li>TODO: Users can now receive email.</li>
-          <li>TODO: Forgot password link has been added.</li>
-          <li>TODO: Users can now change their password.</li>
+          <li>Only registered and logged in users may view the galleries now.</li>
+
       </ol>
 
       <br /><br />

@@ -10,15 +10,27 @@
             //We need to show a different menu for users who are logged in.  We are going to use a function called userState() that returns an id if the user is logged in and false if the user is a guest.
 
             require_once('functions/userState.func.php');
-            
+            if (userState() === false ){
+                ?>
+                <ul>
+                    <li><a href="index.php">home</a></li>
+                    <li><a href="faq.php">faq</a></li>
+                    <li><a href="register.php">register</a></li>
+                  <li><a href="login.php">login</a></li>
+                </ul>
+                <?php
+            }else{
+                ?>
+                <ul>
+                    <li><a href="index.php">home</a></li>
+                    <li><a href="faq.php">faq</a></li>
+                    <li><a href="includes/logout.inc.php">logout</a></li>
+                </ul>
+                <?php
+            }
 
            ?>
-          <ul>
-              <li><a href="/index.php">home</a></li>
-              <li><a href="/faq.php">faq</a></li>
-              <li><a href="/register.php">register</a></li>
-            <li><a href="/login.php">login</a></li>
-          </ul>
+
         </nav>
       </div>
     </div>

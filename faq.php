@@ -13,10 +13,7 @@
 
       <h1>FAQ</h1>
       <br />
-      <aside class="">
-        What now?
-      </aside>
-      <br />
+      
 
 
         <h3>What is this?</h3>

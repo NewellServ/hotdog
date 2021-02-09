@@ -29,11 +29,14 @@
           <article class="register">
 
               <form class="" action="includes/register.inc.php" method="post">
-                  <input type="text" name="email" placeholder="Email..."><br /><br />
+                  <input type="text" name="email" <?php if (isset($_GET['email'])){ echo "value =\"". $_GET['email'] ."\""; }?> placeholder="Email..."><br /><br />
                   <input type="password" name="password" placeholder="Password..."><br /><br />
                   <input type="password" name="password2" placeholder="Retype Password..."><br /><br />
                   <input type="submit" name="register" value="Register">
-              </form>
+              </form><br />
+              <small> <aside class="">
+                  As always, you should use a <b>unique password</b> for this website.
+              </aside> </small>
           </article>
       </section>
     </div>

@@ -36,6 +36,12 @@
                   <input type="text" name="email" <?php if (isset($_GET['email'])){ echo "value =\"". $_GET['email'] ."\""; }?> placeholder="Email..."><br /><br />
                   <input type="password" name="password" placeholder="Password..."><br /><br />
                   <input type="password" name="password2" placeholder="Retype Password..."><br /><br />
+                  <select class="" name="">
+                      <option selected>I dont save this</option>
+                      <option value="">Male</option>
+                      <option value="">Female</option>
+                      <option value="">Goon</option>
+                  </select>
                   <input type="checkbox" name="agree" value="" /> I agree to the <a href="promise.php">Hotdog Promise.</a><br /><br />
                   <input type="submit" name="register" value="Register">
               </form><br />

@@ -5,7 +5,7 @@
           <ul>
               <a href="changelog.php"><li>Changelog</li></a>
               <a href="faq.php"><li>faq</li></a>
-              <a href="public.php"><li>&#127789;</li></a>
+              <a href="founders.php"><li>&#127789;</li></a>
           </ul>
       </div>
 

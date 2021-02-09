@@ -17,11 +17,10 @@
       <br /><br />
       <ol>
           <lh><b>1.20</b> - To be announced</lh><hr>
-          <li>RateFACE has been added.</li>
-          <li>Users can now collectively vote on their favorite hotdog eating photo's - top 3 ranked photos will be placed on home page.</li>
+          <li>Last 3 photos uploaded are now displayed on the index page.</li>
           <li>Users can now send flowers if they desire.</li>
           <li>Users can now buy Karen a beer if they desire.</li>
-          <li>Users who subscribe to at least 1 recurring raffle ticket a week get access to Karen's News Feed.</li>
+          <li>Users who subscribe to at least 1 recurring raffle ticket a week get access to Karen's Weiner Feed.</li>
       </ol>
 
       <br /><br />

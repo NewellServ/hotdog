@@ -212,6 +212,23 @@ img {
     display: none;
 }
 
+.footerLinks ul{
+    float: left ;
+
+
+}
+
+.footerLinks ul li{
+    margin: 0 5px ;
+    padding: 0 5px ;
+    display: inline-block;
+}
+
+.footerLinks:visited {
+    float: left ;
+    color: white ;
+}
+
 @media only screen and (min-width: 768px) {
   article {
     display: inline-block;
@@ -257,7 +274,7 @@ img {
 
     article {
         margin: 0 auto ;
-        
+
     }
 
     section {

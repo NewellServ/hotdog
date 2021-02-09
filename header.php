@@ -23,7 +23,6 @@
                 ?>
                 <ul>
                     <li><a href="index.php">home</a></li>
-                    <li><a href="faq.php">faq</a></li>
                     <li><a href="includes/logout.inc.php">logout</a></li>
                 </ul>
                 <?php

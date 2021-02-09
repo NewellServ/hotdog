@@ -62,11 +62,7 @@
         <h3>Can I send Karen a personal message?</h3>
         <p>This is a planned feature, though your message will be subject to moderation before forwarding.</p>
 
-        <h3>I want to send Karen a secret admirer card.</h3>
-        <p>Do it!  Here is a link: www</p>
-
-        <h3>I want to buy her valentines flowers!</h3>
-        <p>She loves flowers!  You should give them to her.</p>
+        
         <br /><br />
     </div>
   </body>

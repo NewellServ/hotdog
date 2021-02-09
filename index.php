@@ -28,7 +28,7 @@
       <section class="Main">
           <section class="buttons">
             <article>
-                Buy Karen a hotdog and an image of her eating it will be posted here.<br /><br />
+                Buy Karen a hotdog and I'll give you a picture of her eating it.<br /><br />
 
 
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -44,7 +44,7 @@
 
                 <font color="green" size="16px">$4.50</font>
 
-                <br /><br /><em><small>We are currently experiencing high latency.  All purchases <b>will be honored</b>, and reserves your spot in line.</b></small></em>
+                <br /><br /><em><small>Rate of hotdog consumption varies greatly, expect your hotdog to be eaten within a couple of days.</b></small></em>
             </article>
 
           </section>
@@ -53,7 +53,7 @@
 
         <section class="buttons">
             <article>
-                Buy a raffle ticket for the feb 12th Hotdog Friday raffle!
+                Buy a raffle ticket for the Hotdog Friday raffle!<br />
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="2SSP3DQZWQZME">
@@ -63,7 +63,7 @@
 
                 <font color="green" size="16px">&cent;.99</font>
 
-                <br /><br /><em><small>Raffles will be held every friday night and the hotdog eating video in the gallery will be replaced with your hotdog with attribution if you like.</b></small></em>
+                <br /><br /><em><small>Hotdog Friday is when we video Karen eating the raffle winners hotdog and put it on the home page.</b></small></em>
             </article>
         </section>
     </section>

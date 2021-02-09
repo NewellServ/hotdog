@@ -26,7 +26,7 @@
 
       <br /><br />
       <ol>
-          <lh><b>1.10</b> - 2/8/2021</lh><hr>
+          <lh><b>1.101</b> - 2/8/2021</lh><hr>
           <li>Users can now register an account with the website.</li>
           <li>TODO: Users can now login to the website with their website credentials</li>
           <li>TODO: Users can now update their email address when logged in.</li>

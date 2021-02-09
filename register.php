@@ -18,7 +18,11 @@
           if (isset($_GET['error'])){
               echo "<span><font color=\"red\"><b>" . $_GET['error'] . "</b></font></span>" ;
           }else{
-                echo "Registering an account is free and sets you up for attribution and notification." ;
+                echo "<p>Registering an account is free and sets you up for attribution and notification.</p>" ;
+                ?>
+
+
+                <?php
           }
            ?>
 
@@ -39,6 +43,16 @@
               </aside> </small>
           </article>
       </section>
+      <br /><br />
+      <h2>Register for the site if you want to:</h2><br />
+      <ol>
+          <li>View the public gallery.</li>
+          <li>Have a personal gallery of <b>YOUR</b> hotdogs.</li>
+          <li>Claim attribution of your eaten hotdog.</li>
+          <li>Receive updates about Karen and her hotdog eating excursions.</li>
+          <li>Receive updates about new features of this website.</li>
+          <li>Receive updates about new projects from the maker of this website.</li>
+      </ol>
     </div>
     <br /><br />
   </body>

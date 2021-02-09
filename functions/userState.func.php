@@ -18,6 +18,9 @@ function userState(){
         return false ;
         exit("Function should have returned false.");
     }else{
+        //we are logged in
+        //we need to return the user's ID
         return $_SESSION['userId'] ;
+        exit('Function should have returned users id');
     }
 }

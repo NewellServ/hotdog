@@ -1,4 +1,4 @@
-<?php session_start() ; forceLoggedIn(); ?><!DOCTYPE html>
+<?php session_start() ; require_once('functions/forceLoggedIn.func.php'); forceLoggedIn(); ?><!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">

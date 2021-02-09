@@ -38,9 +38,8 @@
           <li>Users can now register an account with the website.</li>
           <li>Users can now login to the website with their website credentials</li>
           <li>Nav menu now updates based on the users logged in status.</li>
-          <li>Users can view founders gallery.</li>
           <li>Only registered and logged in users may view the galleries now.</li>
-
+          <li>Users can view founders gallery.</li>
       </ol>
 
       <br /><br />

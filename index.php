@@ -14,7 +14,7 @@
       <h1>Buy Karen a hotdog<font style="font-size: 8px;">2.0</font></h1>
       <br />
       <aside class="">
-        "You can help aggravate an irrational addiction to hotdogs."
+        "Testing the limits of hotdog consumption."
       </aside>
       <br />
       <section class="Main">

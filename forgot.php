@@ -33,7 +33,7 @@
               <p>Wouldn't want to miss out on getting your hotdog gobbled.  Enter your email in the form below and we'll kick one out to your spam folder to reset your password.</p>
 
               <form action="includes/forgot.inc.php" method="post">
-                  <input type="text" name="Email" placeholder="Whats your email?" />
+                  <input type="text" name="email" placeholder="Whats your email?" />
                   <input type="submit" name="submit" value="Submit" />
               </form>
               <br /><br />

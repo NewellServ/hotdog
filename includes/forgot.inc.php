@@ -4,7 +4,14 @@
 
 $email = $_POST['email'];
 
+if ($email == null){
+    //justredirect to forgot password with an error
+    header('location: ../forgot.php?error=You need to fill out the form.');
+    die('User should have filled out the form.');
+}
+
 $email = filter_var($email, FILTER_SANITIZE_EMAIL);
+
 
 // Validate e-mail
 if (!(filter_var($email, FILTER_VALIDATE_EMAIL))) {

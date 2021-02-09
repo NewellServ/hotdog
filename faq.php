@@ -11,10 +11,10 @@
 <body>
     <div class="wrapper">
 
-      <h1>Buy Karen a hotdog FAQ</h1>
+      <h1>FAQ</h1>
       <br />
       <aside class="">
-        "You can help aggravate an irrational addiction to hotdogs."
+        What now?
       </aside>
       <br />
 

@@ -224,8 +224,11 @@ img {
     display: inline-block;
 }
 
-.footerLinks:visited {
-    float: left ;
+.footerLinks a:visited {
+    color: white ;
+}
+
+.footerLinks a {
     color: white ;
 }
 

@@ -22,6 +22,15 @@ if (!(isset($_POST['register']))){
     die('We got here without form infomation!');
 }
 
+//check to see if we are attempting to register fromt the registration form
+
+if ($_POST['agree'] !== "true"){
+    //They didn't make the promise
+    $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
+    header('location: ../register.php?error=You must agree to the hotdog promise.&email=' . $email);
+    die('We got here without form infomation!');
+}
+
 
 //now we have arrived at this page with form information in post
 

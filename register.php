@@ -42,7 +42,7 @@
                       <option value="">Female</option>
                       <option value="">Goon</option>
                   </select><br /><br />
-                  <input type="checkbox" name="agree" value="" /> I agree to the <a href="promise.php">Hotdog Promise.</a><br /><br />
+                  <input type="checkbox" name="agree" value="true" /> I agree to the <a href="promise.php">Hotdog Promise.</a><br /><br />
                   <input type="submit" name="register" value="Register">
               </form><br />
               <small> <aside class="">
@@ -58,7 +58,7 @@
           <li>Claim attribution of your eaten hotdog.</li>
           <li>Receive updates about Karen and her hotdog eating excursions.</li>
           <li>Receive updates about new features of this website.</li>
-          
+
       </ol>
     </div>
     <br /><br />

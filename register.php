@@ -41,7 +41,7 @@
                       <option value="">Male</option>
                       <option value="">Female</option>
                       <option value="">Goon</option>
-                  </select>
+                  </select><br /><br />
                   <input type="checkbox" name="agree" value="" /> I agree to the <a href="promise.php">Hotdog Promise.</a><br /><br />
                   <input type="submit" name="register" value="Register">
               </form><br />

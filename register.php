@@ -36,7 +36,7 @@
                   <input type="text" name="email" <?php if (isset($_GET['email'])){ echo "value =\"". $_GET['email'] ."\""; }?> placeholder="Email..."><br /><br />
                   <input type="password" name="password" placeholder="Password..."><br /><br />
                   <input type="password" name="password2" placeholder="Retype Password..."><br /><br />
-                  <select class="" name="">
+                  Sex:<select class="" name="">
                       <option selected>I dont save this</option>
                       <option value="">Male</option>
                       <option value="">Female</option>
@@ -58,7 +58,7 @@
           <li>Claim attribution of your eaten hotdog.</li>
           <li>Receive updates about Karen and her hotdog eating excursions.</li>
           <li>Receive updates about new features of this website.</li>
-          <li>Receive updates about new projects from the maker of this website.</li>
+          
       </ol>
     </div>
     <br /><br />

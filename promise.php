@@ -19,7 +19,11 @@
       <section>
           <article class="">
               <h3>We agree on the following...</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Look, I don't want to screw you and I know you don't want to screw me.  You buy the hotdog, I'll feed it to her and give you a picture of it.  Thats it.</p>
+              <p>Hotdog purchase to hotdog consumption may be an extended wait, your spot is saved in line.</p>
+              <p>Things that are tasteful, funny, or complimentory will be passed on!  Things that are not will be moderated.</p>
+              <p>Enjoy!</p>
+
           </article>
       </section>
     </div>

@@ -63,7 +63,7 @@
 
                 <font color="green" size="16px">&cent;.99</font>
 
-                <br /><br /><em><small>Hotdog Friday is when we video Karen eating the raffle winners hotdog and put it on the home page.</b></small></em>
+                <br /><br /><em><small>Hotdog Friday is when we video Karen eating the raffle weiners hotdog and put it on the home page.</b></small></em>
             </article>
         </section>
     </section>

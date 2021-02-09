@@ -14,7 +14,18 @@
       <h1>Hotdog!</h1>
       <br />
       <aside class="">
-        "I love hotdogs." -Karen
+          <?php
+          if (isset($_GET['error'])){
+              echo "<span><font color=\"red\"><b>" . $_GET['error'] . "</b></font></span>" ;
+          }else{
+                echo "<p>Logging into your account allows you to view the public gallery as well as your private gallery.</p>" ;
+                ?>
+
+
+                <?php
+          }
+           ?>
+
       </aside>
       <br />
 
@@ -22,7 +33,7 @@
           <article class="">
               <h3>Login</h3>
               <form class="" action="includes/login.inc.php" method="post">
-                  <input type="text" name="email" placeholder="Email..."><br /><br />
+                  <input type="text" name="email" <?php if (isset($_GET['email'])){ echo "value =\"". $_GET['email'] ."\""; }?> placeholder="Email..."><br /><br />
                   <input type="password" name="password" placeholder="Password..."><br /><br />
                   <input type="submit" name="submit" value="Login"><br /><br />
               </form>

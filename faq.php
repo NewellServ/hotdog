@@ -22,6 +22,9 @@
         <h3>What is this?</h3>
         <p>A fully interactive hot dog experience, currently with high latency.</p>
 
+        <h3>I bought a hotdog, when is she going to eat it?</h3>
+        <p>Get in line, Buddy!  This isn't an "immediately stuff a hotdog down Karen's throat" service. (Looking into that.)  Your time will come.</p>
+
       <h3>What exactly am I buying here?</h3>
       <p>I've bought a pack of hot dogs.  I'll sell you one at the current price of a hotdog on the main page.  Karen eats your hotdog.  I post picture of Karen eating your hotdog in the gallery.</p>
 
@@ -62,7 +65,7 @@
         <h3>Can I send Karen a personal message?</h3>
         <p>This is a planned feature, though your message will be subject to moderation before forwarding.</p>
 
-        
+
         <br /><br />
     </div>
   </body>

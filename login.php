@@ -15,8 +15,11 @@
       <br />
       <aside class="">
           <?php
+          //This piece of code simply checks to see if there is an error or success message and displays it otherwise.
           if (isset($_GET['error'])){
               echo "<span><font color=\"red\"><b>" . $_GET['error'] . "</b></font></span>" ;
+          }else if(isset($_GET['success'])){
+              echo "<span><font color=\"green\"><b>" . $_GET['success'] . "</b></font></span>";
           }else{
                 echo "<p>Logging into your account allows you to view the public gallery as well as your private gallery.</p>" ;
                 ?>

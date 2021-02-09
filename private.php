@@ -22,7 +22,7 @@
           <article class="">
               <h3>Gallery</h3>
               <p>You haven't bought her a hotdog yet!</p>
-              <p>If you are a founder and are looking for your pre record keeping hotdog images <a href="founders.php">click here.</a></p>
+              <p>If you are a founder and are looking for your pre record keeping hotdog photos <a href="founders.php">click here.</a></p>
           </article>
       </section>
     </div>

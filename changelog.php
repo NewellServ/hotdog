@@ -29,7 +29,7 @@
           <li>Users can now register an account with the website.</li>
           <li>Users can now login to the website with their website credentials</li>
           <li>Nav menu now updates based on the users logged in status.</li>
-          <li>TODO: Logged in users can view public gallery.</li>
+          <li>Users can view founders gallery.</li>
           <li>TODO: Loggin in users can view private gallery.</li>
           <li>TODO: Users can now update their email address when logged in.</li>
           <li>TODO: Users can now receive email.</li>

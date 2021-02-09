@@ -8,5 +8,5 @@ unset($_SESSION['userId']);
 
 session_destroy();
 
-header('location: ../');
+header('location: ../login.php');
 exit('You should have been forwarded to the index.');

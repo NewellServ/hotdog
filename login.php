@@ -40,7 +40,7 @@
                   <input type="password" name="password" placeholder="Password..."><br /><br />
                   <input type="submit" name="submit" value="Login"><br /><br />
               </form>
-
+              <p>No account?  <a href="register.php">Register here.</a></p>
           </article>
       </section>
     </div>

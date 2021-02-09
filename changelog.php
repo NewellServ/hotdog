@@ -16,8 +16,24 @@
 
       <br /><br />
       <ol>
-          <lh><b>1.12</b> - 2/8/2021</lh><hr>
-          <li>Began laying foundation for log in system.</li>
+          <lh><b>1.20</b> - To be announced</lh><hr>
+          <li>RateFACE has been added.</li>
+          <li>Users can now collectively vote on their favorite hotdog eating photo's - top 3 ranked photos will be placed on home page.</li>
+          <li>Users can now send flowers if they desire.</li>
+          <li>Users can now buy Karen a beer if they desire.</li>
+          <li>Users who subscribe to at least 1 recurring raffle ticket a week get access to Karen's News Feed.</li>
+      </ol>
+
+      <br /><br />
+      <ol>
+          <lh><b>1.10</b> - 2/8/2021</lh><hr>
+          <li>Users can now register an account with the website.</li>
+          <li>TODO: Users can now login to the website with their website credentials</li>
+          <li>TODO: Users can now update their email address when logged in.</li>
+          <li>TODO: Nav menu now updates based on the users logged in status.</li>
+          <li>TODO: Users can now receive email.</li>
+          <li>TODO: Forgot password link has been added.</li>
+          <li>TODO: Users can now change their password.</li>
       </ol>
 
       <br /><br />
@@ -26,6 +42,7 @@
           <li>Modified stylesheet for views with width over 1000 pixels.</li>
           <li>Removed gallery from front page.</li>
           <li>Modified gallery css to more pleasently show pictures.</li>
+          <li>Added SSL certificate</li>
 
       </ol>
 

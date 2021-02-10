@@ -30,13 +30,15 @@
             <article>
                 Buy Karen a hotdog and I'll give you a picture of her eating it.<br /><br />
 
-
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <!-- paypal button -->
+                <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top">
                     <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="AG2D5EPVGNZ6A">
-                    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    <input type="hidden" name="hosted_button_id" value="NJCQEGECHU5QJ">
+                    <input type="image" src="https://www.sandbox.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                    <img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
                 </form>
+
+
 
 
                 <br />
@@ -54,12 +56,7 @@
         <section class="buttons">
             <article>
                 Buy a wiener ticket for the Hotdog Friday raffle!<br />
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="2SSP3DQZWQZME">
-                    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                </form>
+                <!-- paypal button -->
 
                 <font color="green" size="16px">&cent;.99</font>
 

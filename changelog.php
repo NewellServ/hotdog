@@ -34,6 +34,13 @@
 
       <br /><br />
       <ol>
+          <lh><b>1.1011</b> - 2/24/21</lh><hr>
+          <li>Implemented Lazy Loading to help with page load times on the gallery.</li>
+
+      </ol>
+
+      <br /><br />
+      <ol>
           <lh><b>1.101</b> - 2/8/2021</lh><hr>
           <li>Users can now register an account with the website.</li>
           <li>Users can now login to the website with their website credentials</li>

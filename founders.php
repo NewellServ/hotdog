@@ -32,7 +32,7 @@
 
                     //echo '<img src="' . $image . '" alt="Random image" />' . "<br /><br />";
                     ?>
-                        <a href="<?php echo $image ; ?>" title="click here to see the full sized image"><img src="<?php echo $image ;?>" alt="Karen eating a hotdog."></a>
+                        <a href="<?php echo $image ; ?>" title="click here to see the full sized image"><img src="<?php echo $image ;?>" alt="Karen eating a hotdog." loading="lazy" ></a>
                     <?php
 
                 }

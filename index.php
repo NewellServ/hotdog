@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Karen loves hot dogs.</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/style.css?v=1">
     <meta name="description" content="My wife, Karen, loves hot dogs tremendously.  On this page you can purchase a hot dog for her and I will take a picture of her eating it and post it to the main page hot dog eating gallery.">
     <meta name="keywords" content="Karen, Hot dog, I love hotdogs, hotdog, buy karen a hot dog, buy karen a hotdog">
 

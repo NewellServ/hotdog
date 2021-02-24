@@ -31,7 +31,8 @@
                 Buy Karen a hotdog and I'll give you a picture of her eating it.<br /><br />
 
                 <!-- paypal button -->
-                <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <!-- <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top"> -->
+                <form action="closed.php" method="post" target="_top">
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="NJCQEGECHU5QJ">
                     <input type="image" src="https://www.sandbox.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -46,7 +47,7 @@
 
                 <font color="green" size="16px">$4.50</font>
 
-                <br /><br /><em><small>Rate of hotdog consumption varies greatly, expect your hotdog to be eaten within a couple of days.</b></small></em>
+                <br /><br /><em><small>Rate of hotdog consumption varies greatly, expect your hotdog to be eaten at some point in the future.</b></small></em>
             </article>
 
           </section>

@@ -13,7 +13,7 @@
 
       <h1>FAQ</h1>
       <br />
-      
+
 
 
         <h3>What is this?</h3>
@@ -48,10 +48,10 @@
         <p>Not at this time.</p>
 
         <h3>Can I make a request or get a personal touch?</h3>
-        <p>You may request one, but I cannot ensure Karen will comply with your request.  But feel free!</p>
+        <p>You may request one, but I cannot ensure Karen will comply with your request.  Feel free, though.</p>
 
-        <h3>Whats the max number of simultaneious dogs in mouth?</h3>
-        <p>The limit is theoretically infinite, though she hasn't yet been convinced to simultaniously eat your hotdogs.</p>
+        <h3>Whats the max number of simultaneous dogs in mouth?</h3>
+        <p>The limit is theoretically infinite, though she hasn't yet been convinced to simultaneously eat your hotdogs.</p>
 
         <h3>Did a tree fall on your house?</h3>
         <p>Yes.  Please buy more hotdogs.</p>
@@ -60,7 +60,7 @@
         <p>Not at this time.</p>
 
         <h3>Can I send Karen a personal message?</h3>
-        <p>This is a planned feature, though your message will be subject to moderation before forwarding.</p>
+        <p>Not at this time.</p>
 
 
         <br /><br />

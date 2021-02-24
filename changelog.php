@@ -14,24 +14,7 @@
       <h1>Patch notes</h1>
 
 
-      <br /><br />
-      <ol>
-          <lh><b>1.20</b> - To be announced</lh><hr>
-          <li>Last 3 photos uploaded are now displayed on the index page.</li>
-          <li>Users can now send flowers if they desire.</li>
-          <li>Users can now buy Karen a beer if they desire.</li>
-          <li>Users who subscribe to at least 1 recurring raffle ticket a week get access to Karen's Weiner Feed.</li>
-      </ol>
-      <br /><br />
-      <ol>
-          <lh><b>1.102</b> - To be announced</lh><hr>
-          <li>TODO: Loggin in users can view private gallery.</li>
-          <li>TODO: Users can now update their email address when logged in.</li>
-          <li>TODO: Users can now receive email.</li>
-          <li>TODO: Forgot password link has been added.</li>
-          <li>TODO: Users can now change their password.</li>
-      </ol>
-
+      
       <br /><br />
       <ol>
           <lh><b>1.1011</b> - 2/24/21</lh><hr>

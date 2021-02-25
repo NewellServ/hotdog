@@ -26,10 +26,12 @@
               <p>Enjoy!</p>
 
               <h3>Magic Secret Promise</h3>
-              <p>It's just a hotdog.  We get it.  Some people don't.  We promise not to tell any one that we sent photos to you if you promise not to tell any one either.</p>
+              <p>It's just a hotdog.  We get it.  Some people don't.  We promise not to tell any one that we sent photos to you if you promise not to tell any one either.  You may add your photo to the public gallery on this website and share it no further.</p>
 
               <h3>The handshake</h3>
               <p>The deals made here are generally good natured but are in complete reliance on the participation of my wife who is, in fact, a free person and in no way any type of employee of mine.  She is a partner here, but her participation is most definitely purchased.  We're currently operating on a no refund policy - even if your purchase takes an extended amount of time or never.</p>
+
+
 
               <p>Continued use of this website is agreeance to this.</p>
 

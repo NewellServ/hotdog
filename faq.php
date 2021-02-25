@@ -42,7 +42,7 @@
        <p>According to google: "a frankfurter, especially one served hot in a long, soft roll and topped with various condiments."  Or it can apparently be "a person who shows off, especially a skier or surfer who performs stunts or tricks."  Though getting her to eat your surfer may cost more.</p>
 
         <h3>Whats the current rate of hotdog consumption?</h3>
-        <p>Right now, we are at about 1-3 hotdogs a day.  We are looking into ways to improve this.</p>
+        <p>Hotdog consumption varies greatly from multiple hotdogs a day to hotdog dry spells for weeks.  Your orders are queued though and you will be notified by email when your images are uploaded.</p>
 
         <h3>Can I get a stool sample?</h3>
         <p>Not at this time.</p>

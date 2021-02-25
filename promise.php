@@ -22,7 +22,13 @@
               <p>Look, I don't want to screw you and I know you don't want to screw me.  We mutually agree to try and not fuck each other over.  You buy the hotdog, I'll feed it to her and give you a picture of it.  Thats it.</p>
               <p>Hotdog-purchase to hotdog-consumption may be an extended wait, your spot is saved in line.</p>
               <p>Things that are tasteful, funny, or complimentory will be passed on!  Things that are not will be moderated.</p>
+
               <p>Enjoy!</p>
+
+              <h3>Magic Secret Promise</h3>
+              <p>It's just a hotdog.  We get it.  Some people don't.  We promise not to tell any one that we sent photos to you if you promise not to tell any one either. mmkay?</p>
+
+              <p>Continued registration is agrreance too this.</p>
 
                 <a href="register.php">register</a> - <a href="login.php">login</a>
 

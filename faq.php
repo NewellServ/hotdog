@@ -68,6 +68,9 @@
         <h3>How do I know it's really my hotdog when I see it?</h3>
         <p>I would rather you get nothing than fake it.</p>
 
+        <h3>Magic Secret Promise</h3>
+        <p>It's just a hotdog.  We get it.  Some people don't.  We promise not to tell any one that we sent photos to you if you promise not to tell any one either. mmkay?</p>
+
 
         <br /><br />
     </div>

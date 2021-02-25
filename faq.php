@@ -17,7 +17,7 @@
 
 
         <h3>What is this?</h3>
-        <p>A fully interactive hot dog experience, currently with high latency.</p>
+        <p>A website where you can buy my wife, Karen, a hotdog and I'll give you a picture of her eating it.  You can keep it for yourself or show it off to your friends.  You decide.</p>
 
         <h3>I bought a hotdog, when is she going to eat it?</h3>
         <p>Get in line, Buddy!  This isn't an "immediately stuff a hotdog down Karen's throat" service. (Looking into that.)  Your time will come.</p>
@@ -60,7 +60,7 @@
         <p>Not at this time.</p>
 
         <h3>Can I send Karen a personal message?</h3>
-        <p>Not at this time.</p>
+        <p>Stay tuned for a planned "Love Letter" feature.</p>
 
 
         <br /><br />

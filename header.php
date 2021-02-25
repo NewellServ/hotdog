@@ -14,6 +14,7 @@
                 ?>
                 <ul>
                     <li><a href="index.php">home</a></li>
+                    <li><a href="howitworks.php">what...</a></li>
                     <li><a href="faq.php">faq</a></li>
                     <li><a href="register.php">register</a></li>
                   <li><a href="login.php">login</a></li>
@@ -23,7 +24,6 @@
                 ?>
                 <ul>
                     <li><a href="index.php">home</a></li>
-                    <li><a href="howitworks.php">what...</a></li>
                     <li><a href="public.php">PubG</a></li>
                     <li><a href="private.php">MyDogs</a></li>
                     <li><a href="includes/logout.inc.php">logout</a></li>

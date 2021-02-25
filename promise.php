@@ -28,7 +28,7 @@
               <h3>Magic Secret Promise</h3>
               <p>It's just a hotdog.  We get it.  Some people don't.  We promise not to tell any one that we sent photos to you if you promise not to tell any one either. mmkay?</p>
 
-              <p>Continued registration is agreeance too this.</p>
+              <p>Continued use of this website is agreeance to this.</p>
 
                 <a href="register.php">register</a> - <a href="login.php">login</a>
 

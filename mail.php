@@ -24,7 +24,7 @@
       <section>
           <article class="">
               <h3>Letter</h3>
-              <p>This feature is only available to accounts that have purchased at least 1 hotdog while logged in.</p>
+              <p>This feature is only available to accounts that have purchased at least 1 hotdog in the last 30 days.</p>
               <p><a href="index.php"><button type="button" name="button">Buy a hotdog</button></a></p>
           </article>
       </section>

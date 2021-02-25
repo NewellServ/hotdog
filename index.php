@@ -19,7 +19,7 @@
       <br />
       <section class="Main">
           <a href="/hotdog_video/Video.mp4">
-            <img src="hotdog_selfie/image0.jpeg" alt="A nice picture of Karen so you can see her before she gets fat." title="A nice picture of Karen so you can see her before she gets fat.">
+            <img src="hotdog_selfie-OLD/image0.jpeg" alt="A nice picture of Karen so you can see her before she gets fat." title="A nice picture of Karen so you can see her before she gets fat.">
         </a><br />
         <aside class="">
             <small>Click my photo to watch me eat the last raffle wieners hotdog!</small>

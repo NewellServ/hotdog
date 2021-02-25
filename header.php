@@ -4,7 +4,7 @@
 <header>
     <div class="headWrapper">
       <div class="navWrapper">
-        <a  id="hotdogsKaren" href="/index.php">&#127789; Hotdogwife</a> <!-- needs the slash in the beginning to work from various directories -->
+        <a  id="hotdogsKaren" href="/index.php">&#127789; HotdogWife</a> <!-- needs the slash in the beginning to work from various directories -->
         <nav>
           <?php
             //We need to show a different menu for users who are logged in.  We are going to use a function called userState() that returns an id if the user is logged in and false if the user is a guest.
@@ -23,7 +23,8 @@
                 <ul>
                     <li><a href="public.php">PubG</a></li>
                     <li><a href="private.php">MyDogs</a></li>
-                    <li><a href="includes/logout.inc.php">logout</a></li>
+                    <li><a href="mail.php">Mail</a></li>
+                    <li><a href="includes/logout.inc.php">Logout</a></li>
                 </ul>
                 <?php
             }

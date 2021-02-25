@@ -61,6 +61,7 @@
           <li>View the public gallery.</li>
           <li>Have a personal gallery of <b>YOUR</b> hotdogs.</li>
           <li>Claim attribution of your eaten hotdog.</li>
+          <li>Send Karen a love letter.</li>
           <li>Receive updates about Karen and her hotdog eating excursions.</li>
           <li>Receive updates about new features of this website.</li>
 

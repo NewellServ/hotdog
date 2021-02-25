@@ -23,7 +23,7 @@
               <h3>See ya soon!</h3>
               <p>Karen got a little too full of all of your hotdogs and needed to take a break.  Make sure you are registered for the site and I'll let you know when she's ready to start taking hotdogs again.</p>
               <p>While we wait, please feel free to make a donation.  Donations keep the site going and there are many new features planned including the love letter feature.  Soon you will be able to send Karen a love letter with a tip.</p>
-              <p>Karen will graciously accept your tip and read your letter.  She will even have the option to reply with her own letter and photos for your pleasure.  If you want to send a love letter please donate to help pay for development and encourage Karen to have some fun with us!</p>
+              <p>Karen will graciously accept your tip and read your letter.  She will even have the option to reply with her own letter and pleasently scented digital photos.  If you want to send a love letter please donate to help pay for development and encourage Karen to have some fun with us!</p>
               <p>All donations get your paypal email on the email list so you can be notified when updates have arrived.</p>
               <br /><br />
               <a href="register.php">register</a> - <a href="login.php">login</a>

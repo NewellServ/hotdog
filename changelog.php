@@ -14,11 +14,13 @@
       <h1>Patch notes</h1>
 
 
-      
+
       <br /><br />
       <ol>
           <lh><b>1.1011</b> - 2/24/21</lh><hr>
           <li>Implemented Lazy Loading to help with page load times on the gallery.</li>
+          <li>Reduced image sizes to drastically improve load times.</li>
+          <li>Closed store pending relaunch - donations available.</li>
 
       </ol>
 

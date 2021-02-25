@@ -11,7 +11,7 @@
 <body>
     <div class="wrapper">
 
-      <h1>Buy Karen a hotdog<font style="font-size: 8px;">1.1</font></h1>
+      <h1>Buy Karen a hotdog<font style="font-size: 8px;">1.2</font></h1>
       <br />
       <aside class="">
         "Testing the limits of hotdog consumption."
@@ -28,26 +28,20 @@
       <section class="Main">
           <section class="buttons">
             <article>
-                Buy Karen a hotdog and I'll give you a picture of her eating it.<br /><br />
+                Buy Karen a hotdog and I'll give you a picture of her eating it.<br />
 
-                <!-- paypal button -->
-                <!-- <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top"> -->
-                <form action="closed.php" method="post" target="_top">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="NJCQEGECHU5QJ">
-                    <input type="image" src="https://www.sandbox.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                </form>
 
+                <span style="font-size: 50px ;">&#127789;</span>
 
 
 
                 <br />
 
 
-                <font color="green" size="16px">$4.50</font>
+                <font color="green" size="16px">$4.50</font><br />
+                <button type="button" name="button">Add to cart</button>
+                <br /><em><small>Rate of hotdog consumption varies greatly.</b></small></em>
 
-                <br /><br /><em><small>Rate of hotdog consumption varies greatly, expect your hotdog to be eaten at some point in the future.</b></small></em>
             </article>
 
           </section>
@@ -56,18 +50,13 @@
 
         <section class="buttons">
             <article>
-                Buy a wiener ticket for the Hotdog Friday raffle!<br />
-                <!-- paypal button -- fake --  -->
-                <form action="closed.php" method="post" target="_top">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="NJCQEGECHU5QJ">
-                    <input type="image" src="https://www.sandbox.paypal.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                    <img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                </form>
-
-                <font color="green" size="16px">&cent;.99</font>
+                Hotdog Friday Wiener Tickets<br />
+                <!-- button spot -->
+                <span style="font-size: 50px ;">&#127903;</span><br />
+                <font color="green" size="16px">&cent;99</font>
 
                 <br /><br /><em><small>Hotdog Friday is when we video Karen eating the raffle wieners hotdog and put it on the home page.</b></small></em>
+                <br /><button type="button" name="button">Add to cart</button>
             </article>
         </section>
     </section>

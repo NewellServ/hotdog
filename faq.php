@@ -60,7 +60,7 @@
         <p>Not at this time.</p>
 
         <h3>Can I send Karen a personal message?</h3>
-        <p>You may send Karen a love letter if you like.  We'll accept the money and I'll show her how to read and reply to the letter.  Tell her anything you want, she loves love letters!  What would a soldier say to his significant other while writing far from home?  I have no idea how much tip she'll need to open it.  Lets find out together.</p>
+        <p>You may send Karen a love letter if you like.  We'll accept the money and I'll show her how to read and reply to the letter.  Tell her anything you want, she loves love letters!  What would a soldier say to his significant other while writing far from home?  You just have to pay me a courier fee.  The higher the bid, the quicker and more likely delivery.</p>
 
         <h3>When we get a letter, is it really her writing it?</h3>
         <p>I would rather you get nothing than fake it.  The photos you get are unique to your account.  It's part of our security and protection process so we know who let what go public.</p>

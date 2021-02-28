@@ -14,7 +14,7 @@
       <h1>Buy Karen a hotdog<font style="font-size: 8px;">1.102</font></h1>
       <br />
       <aside class="">
-        "Now with spicy hot love letters!"
+        "One, hotdog for you.  One... Giant heap, for my wife."
       </aside>
       <br />
       <section class="Main">
@@ -39,7 +39,7 @@
 
 
                 <font color="green" size="16px">$4.50</font><br />
-                <button type="button" name="button">Add to cart</button>
+                <a href="buy.php?type=hotdog"><button type="button" name="button">Buy a hotdog</button></a>
                 <br /><em><small>Rate of hotdog consumption varies greatly.</b></small></em>
 
             </article>
@@ -56,7 +56,7 @@
                 <font color="green" size="16px">&cent;99</font>
 
                 <br /><br /><em><small>Hotdog Friday is when we video Karen eating the raffle wieners hotdog and put it on the home page.</b></small></em>
-                <br /><button type="button" name="button">Add to cart</button>
+                <br /><a href="buy.php?type=ticket"><button type="button" name="button">Get "Wiener Tickets"</button></a>
             </article>
         </section>
     </section>

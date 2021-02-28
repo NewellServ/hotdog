@@ -13,7 +13,13 @@
 
       <h1>Patch notes</h1>
 
+      <br /><br />
+      <ol>
+          <lh><b>1.2</b></lh><hr>
+          <li>Added mail page</li>
+          <li></li>
 
+      </ol>
 
       <br /><br />
       <ol>

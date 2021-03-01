@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Karen loves hot dogs.</title>
-    <link rel="stylesheet" href="/css/style.css">
+    
     <meta name="description" content="My wife, Karen, loves hot dogs tremendously.  On this page you can purchase a hot dog for her and I will take a picture of her eating it and post it to the main page hot dog eating gallery.">
     <meta name="keywords" content="Karen, Newell, Karen Newell, Hot dog, I love hotdogs, hotdog, buy karen a hot dog, buy karen a hotdog">
 
@@ -25,7 +25,7 @@
           <article class="">
               <h3>Letter</h3>
               <p>This feature is only available to accounts that have purchased at least 1 hotdog in the last 30 days.</p>
-              <p><a href="index.php"><button type="button" name="button">Buy a hotdog</button></a></p>
+              <p><a href="buy.php"><button type="button" name="button">Buy a hotdog</button></a></p>
           </article>
       </section>
     </div>

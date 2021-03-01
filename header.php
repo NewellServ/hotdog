@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/css/style.css?v=1.011">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script data-ad-client="ca-pub-9035953982473206" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>

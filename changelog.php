@@ -15,9 +15,22 @@
 
       <br /><br />
       <ol>
+          <lh><b>Coming soon</b></lh><hr>
+          <li>Soul Bind - for an extra dollar you will receive a text message when Karen is eating your hotdog.</li>
+          <li>Love letters - for a tip, you may send Karen a private message with any text content you like.  She has an interface to reply with text and pictures if she desires.</li>
+      </ol>
+
+      <br /><br />
+      <ol>
           <lh><b>1.2</b></lh><hr>
-          <li>Added mail page</li>
-          <li></li>
+          <li>Added letters page</li>
+          <li>Added shopping cart and purchase page</li>
+          <li>Paypal now correctly identifies quantity purchased</li>
+          <li>There are now two hotdog queues.  Each purchase gets one hotdog in the fast queue and the rest go into the secondary queue.  The fast queue is cleared fully before clearing begins in the secondary queue.</li>
+          <li>Karen now receives an order when a hotdog is purchased and the system automatically clears the oldest order when Karen eats a hotdog and uploads the selfie.</li>
+
+
+
 
       </ol>
 

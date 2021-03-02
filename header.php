@@ -24,7 +24,7 @@
                 <ul>
                     <li><a href="public.php">PubG</a></li>
                     <li><a href="private.php">MyDogs</a></li>
-                    <li><a href="mail.php">Mail</a></li>
+                    <li><a href="mail.php">Letters</a></li>
                     <li><a href="includes/logout.inc.php">Logout</a></li>
                 </ul>
                 <?php

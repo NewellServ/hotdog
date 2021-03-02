@@ -232,6 +232,22 @@ img {
     color: white ;
 }
 
+
+.shopContainer {
+    border: solid ;
+    display: inline-block;
+    
+
+}
+
+.shopLeft {
+    float:left ;
+    min-width: 60%;
+}
+
+
+
+
 @media only screen and (min-width: 768px) {
   article {
     display: inline-block;
